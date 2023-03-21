@@ -1,2 +1,4 @@
 kramdown:
   syntax_highlighter: coderay
+
+theme: minima
