@@ -4,8 +4,7 @@
 <!--<xsl:include href="../utilities/base.xsl"/>-->
 
 <xsl:template match="/">
-Test
-	
+Test	
 </xsl:template>
 
 </xsl:stylesheet>
